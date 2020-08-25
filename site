@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+	   <title>Nom du group</title>
+	   <meta charset="utf-8">
+	   <link rel="stylesheet" type="text/css" href="style_2.css">
+
+  </head>
+
+  <body>
+
+ 	  <nav class="menu-nav">
+
+      <ul>
+        <li class="btn">
+          <a href="#">Acceuil</a>
+        </li>
+        <li class="btn">
+          <a href="Sur-Nous_2.html">Sur Nous</a>
+        </li>
+        <li class="btn">
+          <a href="Contact-Nous Rejoindre_2.html">Nous Rejoindre</a>
+        </li>
+      </ul><br><br>
+
+ 	</nav>
+
+  <p class="hey">
+    Salut salut, nous c'est la *Nom du Groupe*.<br><br>
+    On ne se considèrent pas comme "Hackeur" mais plutôt <br>
+    comme des passionnés d'informatique<br>
+    qui veulent toujours plus apprendre.<br><br>
+    En ce qui conserne le sous-chef, c'est un passionné <br>
+    de Pentester Ethicale Hacking et de CyberSécurité <br>
+    et il veut faire de sa passion son métier du future.<br><br>
+    (Oui, le chef on a pas de le droit d'en parler,<br>
+    c'est le chef quoi, le boss genre c'est secret tu vois mdrr).<br><br>
+    Nous nous amusons et apprennons toujours plus ensemble. <br><br>
+    On ne veut de mal à personne et puis voilà c'est tout ce que on fait.<br>
+    Ah oui, j'oubliais, n'oubliez pas vous devez TOUJOURS apeller le chef :<br>
+    "Le très haut, Le Majestuer son Altesse le Guide Supprème" puis votre phrase. :) </p>
+
+  <img class="itachiakastyle" src="Uchiha Itachi_WallPaper.jpg" width="400">
+
+<footer>Copyricht &copy; *Nom du Groupe* -  2020/2021 - All Rights Reserved - Tout Droit Reserver</footer>
+
+  </body>
+</html>
 
