@@ -1,0 +1,90 @@
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+
+nav.menu-nav{
+	padding-left: 450px
+}
+
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	
+}
+
+nav.menu-nav ul li.btn a{
+	text-decoration: none;
+	background-color: red;
+	color: #fff;
+	padding: 10px
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	transition: 0.4s all;
+}
+
+img.itachiakastyle{
+	padding-right: 550px
+}
+
+img.itachiakastyle{
+	
+}
+
+p.hey{
+	font-weight: bold;
+	color: white;
+	font-size: 30px
+}
+
+p.nous{
+	font-weight: bold;
+	color: white;
+	font-size: 40px
+}
+
+p.mail{
+	font-weight: bold;
+	color: white;
+	font-size: 40px
+}
+
+
+img.lol{
+	padding-bottom: 30px
+}
+
+img.lol1{
+	padding-left: 30px
+}
+
+
+a.dis{
+	color: white;
+}
+
+
+footer{
+	font-weight: bold;
+	color: white;
+	font-size: 30px
+}
+
+footer{
+	padding-top: 1000px
+}
+
+body{
+     background-color: blue
+}
+
+a{
+	font-size: 30px
+}
